@@ -111,4 +111,4 @@ class CL0gicSelectCity extends CBitrixComponent
     	}
     	return $json_cities;
     }
-}
+} 
